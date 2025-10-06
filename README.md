@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luiz Souza  
 
-<!--
-**lluminatuz/lluminatuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Web** apaixonado por criar soluções eficientes e intuitivas. Tenho experiência com **JavaScript**, **Vue.js**, **Tailwind CSS**, **Axios**, **PHP** e **Laravel**, além de familiaridade com **Python**.  
 
-Here are some ideas to get you started:
+🚀 Busco sempre aplicar boas práticas de desenvolvimento, mantendo o código limpo e de fácil manutenção.  
+🤝 Gosto de colaborar em equipe e compartilhar conhecimento, utilizando metodologias ágeis como **Scrum** e **Kanban**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tecnologias & Ferramentas
+- **Frontend:** JavaScript | Vue.js | Tailwind CSS  
+- **Backend:** PHP | Laravel | Axios  
+- **Outros:** Python | Git | GitHub  
+
+---
+
+## 📈 O que estou buscando
+- Contribuir em projetos de código aberto  
+- Desenvolver soluções escaláveis e práticas  
+- Aprimorar minhas habilidades em backend e integração de sistemas  
+
+---
+
+## 📫 Como me encontrar
+- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)  
+- LinkedIn: [linkedin.com/in/seu-linkedin](https://linkedin.com/in/seu-linkedin)  
+
+---
+
+⭐ Se quiser trocar uma ideia ou colaborar em algum projeto, fique à vontade para entrar em contato!

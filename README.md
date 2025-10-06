@@ -22,8 +22,8 @@
 ---
 
 ## 📫 Como me encontrar
-- GitHub: [github.com/seu-usuario](https://github.com/lluminatuz)  
-- LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/luiz-gustavo-verneque-52130b1b1/)  
+- GitHub: [https://github.com/lluminatuz](https://github.com/lluminatuz)  
+- LinkedIn: [https://www.linkedin.com/in/luiz-gustavo-verneque-52130b1b1/](https://www.linkedin.com/in/luiz-gustavo-verneque-52130b1b1/)  
 
 ---
 
